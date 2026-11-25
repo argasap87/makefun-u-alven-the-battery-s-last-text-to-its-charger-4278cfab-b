@@ -1,10 +1,11 @@
 // The Battery's Last Text to Its Charger — variant B
 //
 // The entry: one line, the phone battery's last text to the charger it
-// waited for all day. The hook is a threat, not a plea: after twelve
-// hours dying, the battery stops begging and starts a group chat with
-// all its dead apps — and the charger is the only one left ghosting.
-// Needy, dramatic, and the "ghosting" twist pays off in the final words.
+// waited for all day. The joke reverses the power dynamic: after twelve
+// hours dying, the battery stops begging and threatens to start a group
+// chat with all its dead apps — leaving the charger as the only one
+// ghosting. Needy, dramatic, and the "ghosting" twist pays off in the
+// final words, because the charger is the one being left on read.
 
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
